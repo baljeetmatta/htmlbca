@@ -1,0 +1,18 @@
+        p.x
+        {
+            background-color: red;
+            color:white;
+
+        }
+        body{
+            background-image: url('images/back.jpg');
+            background-repeat: repeat-x;
+            background-color: white;
+        }
+        div{
+            background-color: aqua;
+        }
+        p#third{
+            background-color: bisque;
+
+        }
